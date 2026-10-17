@@ -1,7 +1,7 @@
 <a href="https://xmodx.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-    <img alt="Gee, AI Process and Automation Engineer. Portfolio at xmodx.com" src="./light_mode.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G33M0D/G33M0D/main/dark_mode.svg">
+    <img alt="Gee, AI Process and Automation Engineer. Portfolio at xmodx.com" src="https://raw.githubusercontent.com/G33M0D/G33M0D/main/light_mode.svg" width="100%">
   </picture>
 </a>
 
